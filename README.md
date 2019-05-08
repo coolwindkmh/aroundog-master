@@ -1,5 +1,5 @@
 # Aroundog
-[Web Application]
+[Web Application] 팀 프로젝트
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMjEg/MDAxNTU3MzI2MzA3MDAy.cqEZaW0yqql7mT0wDaPabzBSUHNDHM5Vw2jrJYyWTr8g.80-fb7bhMccVR8wEuP2j3oKD2r5y8eIlk-c0Evm3u_8g.PNG.coolwindkmh/image.png">
 </br>
 [관리자]
