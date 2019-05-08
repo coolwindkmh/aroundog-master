@@ -16,7 +16,7 @@
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTMz/MDAxNTU3MzIyMDQ5MTk2.5UA148deNcLoYREBIKVIpr1naBL15kTCKBRkttIhevQg.GXhT1DNCJHXgK79bakRmcG8BjhD4ANKizxq70yTiBf4g.PNG.coolwindkmh/image.png">
 - CommonsMultipartResolver를 통한 파일업로드 fileManager 클래스를 정의하여</br> 
-  사진 파일에 대해 upload와 업무 분리 UpLoader 클래스를 정의하여 Controller와 파일 업로드 업무 분리</br>
+    사진 파일에 대해 upload와 업무 분리 UpLoader 클래스를 정의하여 Controller와</br>  파일 업로드 업무 분리</br>
 - Ckeditor 4버전 사용
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMjgx/MDAxNTU3MzIyMDU2MDU3.sRIhexy96FBtxOZDzhzfmZcxEMQVw8HlRlNOCQMy84Qg._rQplWCGWaDqGczLmNwqeCrVel19ZCehqsMCaQitxa4g.PNG.coolwindkmh/image.png">
