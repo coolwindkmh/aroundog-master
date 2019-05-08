@@ -6,10 +6,15 @@
 - SHA 256 을 이용한 비밀번호 암호화
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTUx/MDAxNTU3MzIyMDMyODA2.K8EUOndVu1MCCAREYlfTshQLouUi08Bw1dXqOFEt9PEg.dNy4uqhk22BxK9niJeFp7qBfhTpOXpKUWipcvCesdtog.PNG.coolwindkmh/image.png">
+- Google Map API 이용한 좌표 생성
+- Mail 발송 서비스
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTk3/MDAxNTU3MzIyMDQyMTc1.abgoEqmJ7CMIxvy9mCg0pV_3StgS8fdRMlU1DCP68C4g.Ja_fv2bLbU2tgLVNCxNPyQvcezYGpV4vG1tpTb-8KwQg.PNG.coolwindkmh/image.png">
+- Ajax를 이용한 비동기 기능
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTMz/MDAxNTU3MzIyMDQ5MTk2.5UA148deNcLoYREBIKVIpr1naBL15kTCKBRkttIhevQg.GXhT1DNCJHXgK79bakRmcG8BjhD4ANKizxq70yTiBf4g.PNG.coolwindkmh/image.png">
+- CommonsMultipartResolver를 통한 파일업로드 fileManager 클래스를 정의하여 사진 파일에 대해 upload와 업무 분리 UpLoader 클래스를 정의하여 Controller와 파일 업로드 업무 분리
+- Ckeditor 4버전 
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMjgx/MDAxNTU3MzIyMDU2MDU3.sRIhexy96FBtxOZDzhzfmZcxEMQVw8HlRlNOCQMy84Qg._rQplWCGWaDqGczLmNwqeCrVel19ZCehqsMCaQitxa4g.PNG.coolwindkmh/image.png">
 </br>
