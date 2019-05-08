@@ -3,6 +3,7 @@
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTA3/MDAxNTU3MzI0NDU1MTc5.qMd5DB8N-X-liLcoSIuZDBU-b1w9yaJB52QsoXSpdfEg.hEjTxFEXSEpiUPcORrfXK_qOpEQsHPmr9wrVISbVxfAg.PNG.coolwindkmh/image.png">
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfNCAg/MDAxNTU3MzIyMDIxNjY2.3tm5xC4BB2i5vBonIRXJC_Vlc9bemwgEJiUoxWBy_oUg.9eW9vTTWkP1HSz6N7Vhmf4CSV9k2RHuGbbAtAXSxZVog.PNG.coolwindkmh/image.png">
+- SHA 256 을 이용한 비밀번호 암호화
 </br>
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTUx/MDAxNTU3MzIyMDMyODA2.K8EUOndVu1MCCAREYlfTshQLouUi08Bw1dXqOFEt9PEg.dNy4uqhk22BxK9niJeFp7qBfhTpOXpKUWipcvCesdtog.PNG.coolwindkmh/image.png">
 </br>
