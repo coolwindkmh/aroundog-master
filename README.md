@@ -1,6 +1,6 @@
 # Aroundog
 [Web Application] 팀 프로젝트
-<img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTQg/MDAxNTU3NzI2ODU3Njg0.k8cAernudnlgs1lVLitD99JHFoXRnaqicp-eR6CHH8Ig.S0dRzUDygCzHHxW-L4Oqomvg0_r1L43JPQaA3AcXKHEg.PNG.coolwindkmh/image.png">
+<img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfODUg/MDAxNTU3NzI2OTQzMDIw.QRvmjpgv8RejOc8vU4VR5urd9zGoxN3ZrJT-XXTAoscg.CLv0L71xSqznkfT8UyE4fWot9LHKILTKoaCo8eF5jJkg.PNG.coolwindkmh/image.png">
 </br>
 [관리자]
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfNCAg/MDAxNTU3MzIyMDIxNjY2.3tm5xC4BB2i5vBonIRXJC_Vlc9bemwgEJiUoxWBy_oUg.9eW9vTTWkP1HSz6N7Vhmf4CSV9k2RHuGbbAtAXSxZVog.PNG.coolwindkmh/image.png">
